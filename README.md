@@ -12,4 +12,5 @@ Press Left Arrow Key to Move the Basket Towards Left
 Press Right Arrow Key to Move the Basket Towards Right
 
 ### Snapshots
-[Screenshot-1](./images/img-1.jpg)
+Screenshot-1
+<img src="./images/img-1.jpg"/>
